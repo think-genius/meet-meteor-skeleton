@@ -1,7 +1,7 @@
 Meet Meteor Skeleton
 ====================
 
-A Meteor skeleton, with CoffeeScript, Jade, Sass, Normalize.css, Bourbon with Neat and customizable Bitters.
+A [Meteor](https://www.meteor.com/) skeleton, with CoffeeScript, Jade, Sass, Normalize.css, Bourbon with Neat and customizable Bitters.
 
 ![Meet Meteor skeleton logo](https://s3-us-west-2.amazonaws.com/think.genius.assets/logo.jpg "Logo")
 
