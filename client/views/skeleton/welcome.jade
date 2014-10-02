@@ -1,0 +1,28 @@
+template(name="welcome")
+  #skeleton
+    header
+      .notice
+        span Theme up at
+          a(href="{{pathFor 'customize'}}") /customize
+
+      h1 Skeleton
+      p A Meteor skeleton, with CoffeeScript, Jade, Sass, Normalize.css, Bourbon with Neat and customizable Bitters.
+
+      img#logo(src="images/logo.jpg" width="318")
+
+    section#todo
+      .wrapper
+        p Edit this file (
+          code client/views/skeleton/welcome.jade
+          | ) to get started
+
+        p OR
+
+        p Delete this file and either create a new
+          code welcome.jade
+          | anywhere in the
+          code client/views
+          | folder, or update routes in:
+          code lib/router.coffee
+
+
