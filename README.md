@@ -11,7 +11,7 @@ A Meteor skeleton, with CoffeeScript, Jade, Sass, Normalize.css, Bourbon with Ne
 
 1. Install [Meteorite](https://github.com/oortcloud/meteorite)
 
-2. `git clone git://github.com/Darcbar/meet-meteor-skeleton.git [projectname]`
+2. `git clone git://github.com/think-genius/meet-meteor-skeleton.git [projectname]`
 
 3. `cd [projectname]`
 
